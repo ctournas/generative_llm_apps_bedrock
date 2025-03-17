@@ -1,0 +1,1 @@
+# generative_llm_apps_bedrock
